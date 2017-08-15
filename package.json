@@ -1,0 +1,11 @@
+{
+  "name": "uikit-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EduardMolchanov/uikit-start.git",
+  "author": "Eduard Molchanov -  Intel Compute Stick Original <Eduard.Molchanov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uikit": "2.27.4"
+  }
+}
